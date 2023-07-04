@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Taskitt/static/css/main.032eabf7.css",
+    "main.js": "/Taskitt/static/js/main.61b383e6.js",
+    "index.html": "/Taskitt/index.html",
+    "main.032eabf7.css.map": "/Taskitt/static/css/main.032eabf7.css.map",
+    "main.61b383e6.js.map": "/Taskitt/static/js/main.61b383e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.032eabf7.css",
+    "static/js/main.61b383e6.js"
+  ]
+}
